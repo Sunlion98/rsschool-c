@@ -1,1 +1,0 @@
-Name: Oleksandr Babiichuk
