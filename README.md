@@ -1,1 +1,1 @@
-https://github.com/Sunlion98/rsschool-cv/cv.md
+https://github.com/Sunlion98/rsschool-cv/cv
